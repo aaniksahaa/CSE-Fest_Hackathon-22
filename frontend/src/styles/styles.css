@@ -1,0 +1,11 @@
+.buttonW {
+    width: 200px;
+    padding: 10px;
+    font-size: 30px !important;
+    border-radius: 30px;
+    border: 5px solid red;
+}
+.svg_icons {
+    transform: scale(2);
+    padding: 10px;
+}
