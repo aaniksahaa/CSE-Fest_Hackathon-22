@@ -8,7 +8,5 @@ Just head over to the following website and click on the red "mic" button.
 Try saying "Bring me news about Russia" or "Play music of Rabindranath Tagore". There you go.
 
 https://splendorous-concha-16ac7e.netlify.app/
-# How to thank
-If the repository was helpful, please do care to star the repo.
 # Stay great
 # Love Life
